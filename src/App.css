@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
+body {
+  background-color: black;
+}
+
+.educationhover:hover {
+  background-color: rgb(85, 90, 90);
+}
